@@ -3,7 +3,7 @@
 FrogFind as a Simple Web App for Windows Phone 8.1 and soon 10 and possibly 7 & 8 if I can get them working. 
 It's a very simple browser, don't expect the best quality from it, but i'm working on making it better. 
 
-### Special Credits to Sean (Aka Action Retro on YouTube) and the other people behind FrogFind, whose website made this possible. 
+### Special Credits to Sean (Aka Action Retro on YouTube) and the other people behind FrogFind, whose website made this possible. [FrogFind Github](https://github.com/ActionRetro/FrogFind)
 
 # Compilation Instructions
 If you don't want to download the prebuilt binaries or want the latest nightly release, use these. 
